@@ -20,7 +20,7 @@ The app transforms uploaded research papers into:
 # Live App
 View the live app in Google AI Studio:
 
-https://ai.studio/apps/6e5ba365-1085-4e3e-b723-cfb78aff7daf
+[https://ai.studio/apps/6e5ba365-1085-4e3e-b723-cfb78aff7daf](https://ai.studio/apps/6e5ba365-1085-4e3e-b723-cfb78aff7daf?fullscreenApplet=true)
 
 ---
 
